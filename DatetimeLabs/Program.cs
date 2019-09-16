@@ -44,7 +44,7 @@ namespace DatetimeLabs
 
             Console.WriteLine(String.Format("{0:yyyy}/{1:MM}/{2:dd}/{3:ss}/{4:ff}",
             dateTimenow, dateTimenow, dateTimenow, dateTimenow, dateTimenow).ToString());
-
+            //TESTNUMBER2
         }
 
         public static void Lab3()
