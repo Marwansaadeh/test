@@ -33,6 +33,7 @@ namespace DatetimeLabs
 
             Console.WriteLine(String.Format("{0:yyyy}/{1:MM}/{2:dd}",
             dateTimenow, dateTimenow, dateTimenow).ToString());
+            //THIS IS TEST
 
         }
 
